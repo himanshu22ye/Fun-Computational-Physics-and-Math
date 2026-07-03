@@ -1,0 +1,1 @@
+### Computational-Physics-Math is a collection of interactive Python projects that explore the beauty of mathematics and physics through simulation, visualization, and scientific computing.
